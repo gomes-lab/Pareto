@@ -1,0 +1,51 @@
+/results/
+
+# Prerequisites
+*.d
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+
+
+### R ###
+
+# History files
+.Rhistory
+
+# Session Data files
+.RData
+
+
+### Other ###
+
+# IDE
+.vscode/
+.kdev4/
+*.kdev4
+tags
+
+# temp-files
+tmp
